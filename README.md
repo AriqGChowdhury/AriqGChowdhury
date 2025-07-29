@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ariq Chowdhury</h1>
 <h3 align="center">Computer science student specializing in AI and back-end technologies!</h3>
 
-- 🔭 I’m currently working on **AI-Interviewer**
+- 🔭 I’m currently working on **Resell and Bid AI**
 
 - 📫 How to reach me **ariq922@hotmail.com**
 
